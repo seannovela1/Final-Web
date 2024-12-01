@@ -83,4 +83,6 @@ footer a:hover {
         font-size: 2rem;
     }
 
-    
+    nav ul {
+        flex-direction: column;
+    }
