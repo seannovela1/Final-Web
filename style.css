@@ -53,3 +53,8 @@ section {
     max-width: 1200px;
     margin: 0 auto;
 }
+
+section h2 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
