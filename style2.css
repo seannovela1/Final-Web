@@ -47,3 +47,6 @@ nav ul li a {
     transition: color 0.3s ease;
 }
 
+nav ul li a:hover {
+    color: #32cd32; /* Lime green color on hover */
+}
