@@ -34,3 +34,7 @@ nav ul {
     justify-content: center;
     margin-top: 20px;
 }
+
+nav ul li {
+    margin: 0 15px;
+}
