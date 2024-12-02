@@ -85,3 +85,9 @@ footer a {
 footer a:hover {
     color: #32cd32; /* Lime green color on hover */
 }
+
+@media (max-width: 768px) {
+    section {
+        grid-template-columns: 1fr;
+    }
+    
